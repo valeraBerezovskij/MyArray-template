@@ -7,7 +7,7 @@ int main() {
 	arr.setCapacity(5, 7);
 	cout << "\nSize: " << arr.getSize();
 	cout << "\nCapacity: " << arr.getCapacity() << endl;
-
+	 
 	arr.add(1);
 	arr.add(1);
 	arr.add(1);
